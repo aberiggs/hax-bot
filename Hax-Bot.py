@@ -25,4 +25,4 @@ async def my_background_task():
         await asyncio.sleep(86400) # task runs every 24 hours
       
 client.loop.create_task(my_background_task())
-client.run("NDU3Nzg0NzM3MjY4NzYwNTk4.DgeMnQ.un774saWMTJmvcwjb2mIfTfUPLs") #Replace token with your bots token
+client.run("") #Replace token with your bots token
